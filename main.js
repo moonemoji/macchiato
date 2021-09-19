@@ -1,5 +1,4 @@
 // Require the necessary discord.js classes
-const fs = require("fs");
 const { Client, Collection, Intents } = require("discord.js");
 const { token } = require("./config.json");
 const { getAllFiles } = require("./helpers");
@@ -28,7 +27,7 @@ client.once("ready", () => {
 // Login to Discord with your client's token
 client.login(token);
 
-// run commands
+// Run commands
 client.on("interactionCreate", async interaction => {
     if (!interaction.isCommand()) return;
 

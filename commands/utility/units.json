@@ -1,0 +1,32 @@
+{
+    "units": 
+    {
+        "ft": "length",
+        "ftin": "length",
+        "cm": "length",
+        "in": "length",
+
+        "C": "temperature",
+        "F": "temperature",
+
+        "mL": "volume",
+        "cups": "volume",
+        "tbsp": "volume",
+        "tsp": "volume"
+    },
+    
+    "choices": [
+        ["feet" , "ft"],
+        ["feet & inches", "ftin"],
+        ["centimeters", "cm"],
+        ["inches", "in"],
+
+        ["celsius", "C"],
+        ["fahrenheit", "F"],
+
+        ["milliliters", "mL"],
+        ["cups", "cups"],
+        ["tablespoons", "tbsp"],
+        ["teaspoons", "tsp"]
+    ]
+}
