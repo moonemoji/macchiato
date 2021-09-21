@@ -1,6 +1,5 @@
 const { SlashCommandBuilder } = require("@discordjs/builders");
-const { Permissions } = require("discord.js");
-const { MessageActionRow, MessageButton } = require("discord.js");
+const { MessageActionRow, MessageButton, Permissions } = require("discord.js");
 const { Pins } = require("../../db/dbObjects.js");
 
 module.exports = {
@@ -21,16 +20,38 @@ module.exports = {
         const row = new MessageActionRow()
             .addComponents(
                 new MessageButton()
-                    .setCustomId("pinPermsYes")
+                    .setCustomId("pinPermsAny")
                     .setLabel("Let anyone use it")
                     .setStyle("PRIMARY"),
                 new MessageButton()
-                    .setCustomId("pinPermsNo")
+                    .setCustomId("pinPermsMod")
                     .setLabel("Only let mods use it")
                     .setStyle("PRIMARY"),
             );
 
-        await interaction.reply({ content: "Should moderators be the only ones able to use my pin command?", components: [row] });
-        //Pins.upsert({ guild_id: interaction.guildId, channel_id: ch.id });
+        await interaction.reply({ content: "Should moderators be the only ones able to use my pin command?", components: [row], ephemeral: true });
+
+        const collector = interaction.channel.createMessageComponentCollector({ componentType: "BUTTON", time: 15000 });
+
+        let replied = false;
+        collector.on("collect", i => {
+            if (i.customId == "pinPermsAny") {
+                Pins.upsert({ guild_id: interaction.guildId, mod_only: 0 });
+                interaction.editReply({ content: "Got it, from now on anyone can use my pin command.", components: [] });
+                collector.stop();
+                replied = true;
+            }
+            else if (i.customId == "pinPermsMod") {
+                Pins.upsert({ guild_id: interaction.guildId, mod_only: 1 });
+                interaction.editReply({ content: "Got it, from now on only mods can use my pin command.", components: [] });
+                collector.stop();
+                replied = true;
+            }
+        });
+
+        await new Promise(resolve => setTimeout(resolve, 15000));
+        if (!replied) {
+            await interaction.editReply({ content: "Sorry, I can only wait for so long...try again?", components: [] });
+        }
     },
 };

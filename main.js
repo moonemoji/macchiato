@@ -5,14 +5,15 @@ const { getAllFiles } = require("./helpers");
 
 const commandPath = "./commands";
 
-let files = [];
-files = getAllFiles(commandPath, files).filter(file => file.endsWith(".js"));
+let commandfiles = [];
+commandfiles = getAllFiles(commandPath, commandfiles).filter(file => file.endsWith(".js"));
 
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
 client.commands = new Collection();
 
-for (const file of files) {
+// Populate commands
+for (const file of commandfiles) {
     const command = require(file);
     // Set a new item in the Collection
     // With the key as the command name and the value as the exported module
