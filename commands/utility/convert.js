@@ -50,11 +50,12 @@ module.exports = {
             break;
         case "temperature":
             if (source == "C") { // C <-> F is the only conversion
-                returnVal = Number((value * (9/5)) + 32);
+                returnVal = (value * (9/5)) + 32;
             }
             else {
-                returnVal = Number((value - 32) * (5/9));
+                returnVal = (value - 32) * (5/9);
             }
+            break;
         case "volume":
             returnVal = volumeConversion(value, source, dest);
         }
@@ -64,7 +65,7 @@ module.exports = {
             returnVal = returnVal.toFixed(2);
         }
 
-        await interaction.reply(returnVal + " " + dest);
+        await interaction.reply(`${value} ${source} equals ${returnVal} ${dest}`);
     },
 };
 
