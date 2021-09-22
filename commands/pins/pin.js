@@ -1,6 +1,5 @@
 const { Pins } = require("../../db/dbObjects.js");
 const { MessageEmbed } = require("discord.js");
-const { hyperlink } = require("@discordjs/builders");
 
 module.exports = {
     data:
@@ -43,6 +42,6 @@ module.exports = {
             await ch.send({ embeds: [exampleEmbed] });
         }
 
-        await interaction.reply({ content: "Message pinned!", ephemeral: true });
+        await interaction.reply({ content: "Message pinned!" });
     },
 };

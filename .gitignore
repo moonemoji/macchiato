@@ -5,9 +5,10 @@
 /tmp
 /out-tsc
 
-# misc
+# private info
 .eslintrc.json
 config.json
+bot.db
 
 # Runtime data
 pids

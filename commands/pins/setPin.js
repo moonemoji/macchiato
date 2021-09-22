@@ -22,8 +22,13 @@ module.exports = {
         }
 
         const ch = interaction.options.getChannel("channel");
-        await Pins.upsert({ guild_id: interaction.guildId, channel_id: ch.id });
 
-        await interaction.reply("Done! From now on, if pins are full, I'll send pins in that channel instead.");
+        if (!ch.isText()) {
+            await interaction.reply({ content: "Um...I can't use anything but a text channel for overflow, sorry.", ephemeral: true });
+            return;
+        }
+
+        await Pins.upsert({ guild_id: interaction.guildId, channel_id: ch.id });
+        await interaction.reply("Done! From now on, if pins are full, I'll send pins in " + ch.toString() + ".");
     },
 };

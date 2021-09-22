@@ -4,9 +4,11 @@ const { token } = require("./config.json");
 const { getAllFiles } = require("./helpers");
 
 const commandPath = "./commands";
+const eventPath = "./events";
 
-let commandfiles = [];
+let commandfiles, eventFiles = [];
 commandfiles = getAllFiles(commandPath, commandfiles).filter(file => file.endsWith(".js"));
+eventFiles = getAllFiles(eventPath, eventFiles).filter(file => file.endsWith(".js"));
 
 // Create a new client instance
 const client = new Client({ intents: [Intents.FLAGS.GUILDS, Intents.FLAGS.GUILD_MESSAGES] });
@@ -18,6 +20,18 @@ for (const file of commandfiles) {
     // Set a new item in the Collection
     // With the key as the command name and the value as the exported module
     client.commands.set(command.data.name, command);
+}
+
+// run events
+for (const file of eventFiles) {
+    const event = require(file);
+
+    if (event.once) {
+        client.once(event.name, (...args) => event.execute(...args));
+    }
+    else {
+        client.on(event.name, (...args) => event.execute(...args));
+    }
 }
 
 // When the client is ready, run this code (only once)
