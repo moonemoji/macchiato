@@ -30,16 +30,17 @@ module.exports = {
                 return;
             }
 
-            const exampleEmbed = new MessageEmbed()
+            const pinEmbed = new MessageEmbed()
                 .setColor("#FFCD5B")
                 .setAuthor(msg.author.username, msg.author.avatarURL())
                 .setDescription(msg.content)
                 .addFields(
                     { name: "Source", value: "[Jump to message](" + msg.url + ")" },
                 )
-                .setTimestamp(msg.createdAt);
+                .setTimestamp(msg.createdAt)
+                .setImage(msg.attachments.first().url);
 
-            await ch.send({ embeds: [exampleEmbed] });
+            await ch.send({ embeds: [pinEmbed] });
         }
 
         await interaction.reply({ content: "Message pinned!" });
