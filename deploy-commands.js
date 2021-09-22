@@ -28,10 +28,16 @@ const rest = new REST({ version: "9" }).setToken(token);
                 { body: commands },
             );
         }
+        else if (process.argv.length > 2 && process.argv[2] == "clear") {
+            await rest.put(
+                Routes.applicationGuildCommands(clientId, guildId),
+                { body: [] },
+            );
+        }
         else {
             await rest.put(
                 Routes.applicationGuildCommands(clientId, guildId),
-                { body: commands },
+                { body: [commands] },
             );
         }
 
