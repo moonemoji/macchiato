@@ -50,10 +50,10 @@ module.exports = {
             break;
         case "temperature":
             if (source == "C") { // C <-> F is the only conversion
-                returnVal = (value * (9/5)) + 32;
+                returnVal = Number((value * (9/5)) + 32);
             }
             else {
-                returnVal = (value - 32) * (5/9);
+                returnVal = Number((value - 32) * (5/9));
             }
         case "volume":
             returnVal = volumeConversion(value, source, dest);

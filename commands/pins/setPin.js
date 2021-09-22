@@ -22,7 +22,7 @@ module.exports = {
         }
 
         const ch = interaction.options.getChannel("channel");
-        Pins.upsert({ guild_id: interaction.guildId, channel_id: ch.id });
+        await Pins.upsert({ guild_id: interaction.guildId, channel_id: ch.id });
 
         await interaction.reply("Done! From now on, if pins are full, I'll send pins in that channel instead.");
     },

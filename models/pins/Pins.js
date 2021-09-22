@@ -1,11 +1,11 @@
 module.exports = (sequelize, DataTypes) => {
     return sequelize.define("Pins", {
         guild_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             primaryKey: true,
         },
         channel_id: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             defaultValue: 0,
             allowNull: true,
         },

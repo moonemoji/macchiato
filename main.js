@@ -30,7 +30,7 @@ client.login(token);
 
 // Run commands
 client.on("interactionCreate", async interaction => {
-    if (!interaction.isCommand()) return;
+    if (!interaction.isCommand() && !interaction.isContextMenu()) return;
 
     const command = client.commands.get(interaction.commandName);
 
