@@ -1,6 +1,6 @@
 const { REST } = require("@discordjs/rest");
 const { Routes } = require("discord-api-types/v9");
-const { clientId, guildId, token } = require("./config.json");
+const { clientId, guildId, token, test_token } = require("./config.json");
 const { getAllFiles } = require("./helpers");
 
 const commands = [];
@@ -18,7 +18,13 @@ for (const file of commandFiles) {
     }
 }
 
-const rest = new REST({ version: "9" }).setToken(token);
+let rest = null;
+if (process.argv.length > 2 && process.argv[2] == "global") {
+    rest = new REST({ version: "9" }).setToken(token);
+}
+else {
+    rest = new REST({ version: "9" }).setToken(test_token);
+}
 
 (async () => {
     try {
