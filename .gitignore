@@ -9,6 +9,7 @@
 .eslintrc.json
 config.json
 bot.db
+*moidorbot.txt
 
 # Runtime data
 pids

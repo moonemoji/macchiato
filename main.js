@@ -1,6 +1,6 @@
 // Require the necessary discord.js classes
 const { Client, Collection, Intents } = require("discord.js");
-const { token } = require("./config.json");
+const { test_token } = require("./config.json");
 const { getAllFiles } = require("./helpers");
 
 const commandPath = "./commands";
@@ -40,7 +40,7 @@ client.once("ready", () => {
 });
 
 // Login to Discord with your client's token
-client.login(token);
+client.login(test_token);
 
 // Run commands
 client.on("interactionCreate", async interaction => {

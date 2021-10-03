@@ -1,6 +1,6 @@
 const { REST } = require("@discordjs/rest");
 const { Routes } = require("discord-api-types/v9");
-const { clientId, guildId, token, test_token } = require("./config.json");
+const { clientId, guildId, token, testClient, test_token } = require("./config.json");
 const { getAllFiles } = require("./helpers");
 
 const commands = [];
@@ -36,14 +36,14 @@ else {
         }
         else if (process.argv.length > 2 && process.argv[2] == "clear") {
             await rest.put(
-                Routes.applicationGuildCommands(clientId, guildId),
+                Routes.applicationGuildCommands(testClient, guildId),
                 { body: [] },
             );
         }
         else {
             await rest.put(
-                Routes.applicationGuildCommands(clientId, guildId),
-                { body: [commands] },
+                Routes.applicationGuildCommands(testClient, guildId),
+                { body: commands },
             );
         }
 
