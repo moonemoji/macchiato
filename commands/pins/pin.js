@@ -45,7 +45,7 @@ module.exports = {
                     { name: "Source", value: "[Jump to message](" + msg.url + ")" },
                 )
                 .setTimestamp(msg.createdAt)
-                .setImage(msg.attachments.first().url);
+                .setImage((await msg.attachments.first()).url);
 
             await ch.send({ embeds: [pinEmbed] });
         }
