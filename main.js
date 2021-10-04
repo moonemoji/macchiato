@@ -1,6 +1,6 @@
 // Require the necessary discord.js classes
 const { Client, Collection, Intents } = require("discord.js");
-const { test_token } = require("./config.json");
+const { test_token, token } = require("./config.json");
 const { getAllFiles } = require("./helpers");
 
 const commandPath = "./commands";

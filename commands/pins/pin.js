@@ -37,15 +37,19 @@ module.exports = {
                 return;
             }
 
-            const pinEmbed = new MessageEmbed()
+            let pinEmbed = new MessageEmbed()
                 .setColor("#FFCD5B")
                 .setAuthor(`${msg.author.username} in ${msg.channel.toString()}`, msg.author.avatarURL())
                 .setDescription(msg.content)
                 .addFields(
                     { name: "Source", value: "[Jump to message](" + msg.url + ")" },
                 )
-                .setTimestamp(msg.createdAt)
-                .setImage((await msg.attachments.first()).url);
+                .setTimestamp(msg.createdAt);
+
+            const img = await msg.attachments.first();
+            if (img != undefined) {
+                pinEmbed.setImage(img.url);
+            }
 
             await ch.send({ embeds: [pinEmbed] });
         }
