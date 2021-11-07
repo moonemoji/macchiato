@@ -14,7 +14,12 @@ module.exports = {
             await interaction.reply("Sorry, this feature is only available in servers!");
             return;
         }
-        const modOnly = (await Pins.findByPk(interaction.guildId)).dataValues.mod_only;
+
+        const guildRow = await Pins.findByPk(interaction.guildId).dataValues;
+        let modOnly = 0;
+        if (guildRow != null) {
+            modOnly = guildRow.mod_only;
+        }
         if (modOnly != 0 && !interaction.member.permissions.has(Permissions.FLAGS.MANAGE_MESSAGES)) {
             await interaction.reply("You need the `Manage Messages` permission to use this command!");
             return;
@@ -28,8 +33,16 @@ module.exports = {
         catch (error) {
             // grab the pin overflow channel
             let canPin = true;
-            const channelId = (await Pins.findByPk(interaction.guildId)).dataValues.channel_id;
-            const ch = await interaction.client.channels.fetch(channelId).catch(() => { canPin = false; });
+
+            let channelId = null;
+            let ch = null;
+            try {
+                channelId = (await Pins.findByPk(interaction.guildId)).dataValues.channel_id;
+                ch = await interaction.client.channels.fetch(channelId);
+            }
+            catch (exception) {
+                canPin = false;
+            }
 
             // we can't pin this
             if (!canPin) {
@@ -39,7 +52,7 @@ module.exports = {
 
             let pinEmbed = new MessageEmbed()
                 .setColor("#FFCD5B")
-                .setAuthor(`${msg.author.username} in ${msg.channel.toString()}`, msg.author.avatarURL())
+                .setAuthor(`${msg.author.username} in #${msg.channel.name}`, msg.author.avatarURL())
                 .setDescription(msg.content)
                 .addFields(
                     { name: "Source", value: "[Jump to message](" + msg.url + ")" },

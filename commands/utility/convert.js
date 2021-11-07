@@ -1,6 +1,5 @@
 const { SlashCommandBuilder } = require("@discordjs/builders");
 const { units, choices } = require("./units.json");
-// const { CommandInteractionOptionResolver } = require("discord.js");
 
 module.exports = {
     data: new SlashCommandBuilder()

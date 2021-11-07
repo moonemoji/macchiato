@@ -17,6 +17,7 @@ module.exports = {
             return;
         }
 
+        await message.channel.sendTyping();
         let answer = null;
         markovModel.generateMarkovTweets(configOptions, function(tweets) {
             answer = tweets[0].replace("\r", "");
