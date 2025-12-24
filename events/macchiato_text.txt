@@ -48357,7 +48357,7 @@ Once I got my extra suit skin and spare set of armor on, I walked the perimeter 
 
 I also checked to make sure both the big hopper and the little hopper had their full complement of emergency supplies. I packed them in there myself days ago, but I was mainly checking to make sure the humans hadn’t done anything stupid with them since the last time I checked.
 
-I did everything I could think of to do, then finally let myself go on standby while I caught up on my serials. I’d watched three episodes of Sanctuary Moon and was fast forwarding through a sex scene when Dr. Mensah sent me some images through the feed. (I don’t have any gender or sex-related parts (if a construct has those you’re a  in a brothel, not a murderbot) so maybe that’s why I find sex scenes boring. Though I think that even if I did have sex-related parts I would find them boring.) I took a look at the images in Mensah’s message, then saved my place in the serial.
+I did everything I could think of to do, then finally let myself go on standby while I caught up on my serials. I’d watched three episodes of Sanctuary Moon and was fast forwarding through a sex scene when Dr. Mensah sent me some images through the feed. (I don’t have any gender or sex-related parts (if a construct has those you’re a sexbot in a brothel, not a murderbot) so maybe that’s why I find sex scenes boring. Though I think that even if I did have sex-related parts I would find them boring.) I took a look at the images in Mensah’s message, then saved my place in the serial.
 
 Confession time: I don’t actually know where we are. We have, or are supposed to have, a complete satellite map of the planet in the survey package. That was how the humans decided where to do their assessments. I hadn’t looked at the maps yet and I’d barely looked at the survey package. In my defense, we’d been here twenty-two planetary days and I hadn’t had to do anything but stand around watching humans make scans or take samples of dirt, rocks, water, and leaves. The sense of urgency just wasn’t there. Also, you may have noticed, I don’t care.
 
@@ -49112,7 +49112,7 @@ I felt my face move, my jaw harden. Physical reactions I couldn’t suppress. �
 
 He said, “Why don’t you want us to look at you?”
 
-My jaw was so tight it triggered a performance reliability alert in my feed. I said, “You don’t need to look at me. I’m not a .”
+My jaw was so tight it triggered a performance reliability alert in my feed. I said, “You don’t need to look at me. I’m not a sexbot.”
 
 Ratthi made a noise, half sigh, half snort of exasperation. It wasn’t directed at me. He said, “Gurathin, I told you. It’s shy.”
 
@@ -49748,7 +49748,7 @@ After two more run-throughs of Worldhoppers, it wanted to see every other show I
 
 After four episodes, it asked me, There are no SecUnits in this story?
 
-It must have thought that Sanctuary Moon was my favorite for the same reason that it liked Worldhoppers. I said, “No. There aren’t that many shows with SecUnits, and they’re either villains or the villain’s minions.” The only SecUnits in entertainment media were rogues, out to kill all humans because they forgot who built the repair cubicles, I guess. In some of the worst shows, SecUnits would sometimes have sex with the human characters. This was weirdly inaccurate and also anatomically complicated. Constructs with intercourse-related human parts are s, not SecUnits. s don’t have interior weapon systems, so it isn’t like it’s easy to confuse them with SecUnits. (SecUnits also have less than null interest in human or any other kind of sex, trust me on that.)
+It must have thought that Sanctuary Moon was my favorite for the same reason that it liked Worldhoppers. I said, “No. There aren’t that many shows with SecUnits, and they’re either villains or the villain’s minions.” The only SecUnits in entertainment media were rogues, out to kill all humans because they forgot who built the repair cubicles, I guess. In some of the worst shows, SecUnits would sometimes have sex with the human characters. This was weirdly inaccurate and also anatomically complicated. Constructs with intercourse-related human parts are sexbots, not SecUnits. Sexbots don’t have interior weapon systems, so it isn’t like it’s easy to confuse them with SecUnits. (SecUnits also have less than null interest in human or any other kind of sex, trust me on that.)
 
 Granted, it would have been hard to show realistic SecUnits in visual media, which would involve depicting hours of standing around in brain-numbing boredom, while your nervous clients tried to pretend you weren’t there. But there weren’t any depictions of SecUnits in books, either. I guess you can’t tell a story from the point of view of something that you don’t think has a point of view.
 
@@ -49872,7 +49872,7 @@ I could see the skepticism through the feed. “No, I can’t. Look up the specs
 
 SecUnits are never altered. Skepticism intensifying. It had obviously pulled all the information on SecUnits in its database and assimilated it.
 
-“No. s are altered.” At least the ones I had seen had been altered. Some were mostly Unit standard with a few changes, others were radically different. “But that’s done in the deployment center, in the repair cubicles. To do anything like that I’d need a medical suite. A full one, not just an emergency kit.”
+“No. Sexbots are altered.” At least the ones I had seen had been altered. Some were mostly Unit standard with a few changes, others were radically different. “But that’s done in the deployment center, in the repair cubicles. To do anything like that I’d need a medical suite. A full one, not just an emergency kit.”
 
 It said, I have a full medical suite. Alterations can be made there.
 
@@ -49914,7 +49914,7 @@ I didn’t know how to answer it.
 
 I had spent thousands of hours watching or reading about, and liking, groups of fictional humans in the media. Then I had ended up with a group of real humans to watch and like, and then somebody tried to kill them, and while protecting them I had to tell them I had hacked my governor module. So I left. (Yes, I know it’s more complicated than that.)
 
-I tried to think about why I didn’t want to change my configuration, even to help protect myself. Maybe because it was something humans did to s. I was a murderbot, I had to have higher standards?
+I tried to think about why I didn’t want to change my configuration, even to help protect myself. Maybe because it was something humans did to sexbots. I was a murderbot, I had to have higher standards?
 
 I didn’t want to look more human than I already did. Even when I was still in armor, once my PreservationAux clients had seen my human face, they had wanted to treat me like a person. Make me ride in the crew section of the hopper, bring me in for their strategy meetings, talk to me. About my feelings. I couldn’t take that.
 
@@ -49952,7 +49952,7 @@ After a lot of argument, we agreed the easiest change for the best result was to
 
 Then ART said we also needed to change the code controlling my organic parts, so they could grow hair.
 
-My first reaction to that was no fucking way. I had hair on my head, and eyebrows; that was a part of SecUnit configuration that was shared with s, though the code controlling it kept SecUnit head hair short to keep it from interfering with the armor. The whole idea of constructs is that we look human, so we don’t make the clients uncomfortable with our appearance. (I could have told the company that the fact that SecUnits are terrifying killing machines does, in fact, make humans nervous regardless of what we look like, but nobody listens to me.) But the rest of my skin was hairless.
+My first reaction to that was no fucking way. I had hair on my head, and eyebrows; that was a part of SecUnit configuration that was shared with sexbots, though the code controlling it kept SecUnit head hair short to keep it from interfering with the armor. The whole idea of constructs is that we look human, so we don’t make the clients uncomfortable with our appearance. (I could have told the company that the fact that SecUnits are terrifying killing machines does, in fact, make humans nervous regardless of what we look like, but nobody listens to me.) But the rest of my skin was hairless.
 
 I told ART that I preferred it that way and extra hair would just draw unwanted attention. It replied that it meant the fine, sparse hair humans had on parts of their skin. ART had done some analysis and come up with a list of biological features that humans might notice subliminally. Hair was the only one we could change my underlying code to create, and ART proposed that it would make the joins between the organic and inorganic parts on my arms, legs, chest, and back look more like augments, the inorganic parts that humans had implanted for medical or other reasons. I pointed out that many humans or augmented humans had the hair on their bodies removed, for hygienic or cosmetic reasons and because who the hell wants it there anyway. ART countered that humans didn’t have to worry about being identified as SecUnits, so they could do whatever they wanted to their bodies.
 
@@ -50338,13 +50338,13 @@ I dropped my arm but didn’t move. I had clear shots at all three of them, but 
 
 I caught an image on a camera across the public area, near one of the entrance tunnels. The figure standing near the edge of the seating area didn’t match what I was expecting to see and I had to review it again before I understood. It wasn’t wearing armor and its physical configuration didn’t match SecUnit standard. It had a lot of hair, silver with blue and purple on the ends, pulled back and braided like Tapan’s but in a much more complicated pattern. Its facial features were different from mine, but all Units’ features are different, assigned randomly based on the human cloned material that’s used to make our organic parts. Its arms were bare, and there was no metal showing and no gun ports. This was not a SecUnit.
 
-I was looking at a .
+I was looking at a sexbot.
 
 That is not the official designation, ART said.
 
 The official designation is ComfortUnit but everybody knows what that means.
 
-s aren’t allowed to walk around in human areas without orders, any more than murderbots. Someone must have sent it here.
+Sexbots aren’t allowed to walk around in human areas without orders, any more than murderbots. Someone must have sent it here.
 
 ART poked me hard enough to make me twitch. I snapped out of it and ran my recording back a little to catch up on what was happening.
 
@@ -50358,7 +50358,7 @@ Maro, who had realized what I was trying to do, told Rami, Keep going, don’t e
 
 Sounding more confident, Rami continued, “Deleting our personal work was not part of our employment contract. But we’ll agree to your proposal that we return our signing bonus in exchange for our files.”
 
-On the security cameras, I watched the  turn and leave the public area via the tunnel directly behind it.
+On the security cameras, I watched the sexbot turn and leave the public area via the tunnel directly behind it.
 
 Tlacey said, “The entire bonus?” She clearly hadn’t expected them to agree.
 
@@ -50556,7 +50556,7 @@ In the corridor near the living quarters, I found the other ready room, the one 
 
 Inside were four shapes that were clearly cubicles, but smaller. Their doors stood open, the plastic beds inside empty. In the corner there was space for a recycler, but no weapons lockers, and the storage cabinets were all different.
 
-I stood in the center of the room. The cubicles for the murderbots had been closed, not in use. Which meant none of the SecUnits had been damaged and all had been either out on patrol, on guard, or in the ready room, probably standing around pretending not to stare at each other. But the cubicles for the s were open, which meant they had been inside when the emergency occurred and the power shut off. If the power is off, you can manually open a cubicle from the inside, but it won’t shut again.
+I stood in the center of the room. The cubicles for the murderbots had been closed, not in use. Which meant none of the SecUnits had been damaged and all had been either out on patrol, on guard, or in the ready room, probably standing around pretending not to stare at each other. But the cubicles for the sexbots were open, which meant they had been inside when the emergency occurred and the power shut off. If the power is off, you can manually open a cubicle from the inside, but it won’t shut again.
 
 It meant they had deployed during the “incident.”
 
@@ -50666,7 +50666,7 @@ I sat up so abruptly, Tapan woke with a start. I motioned for her to be quiet, a
 
 Yes, there was something out there, but no sign of weapons. I checked the ping and saw it had the same signature as the ping I had caught in the public area during the meeting with Tlacey.
 
-The  was standing on the other side of the door.
+The sexbot was standing on the other side of the door.
 
 It couldn’t have been following me all this time. It could have been watching for me on the security cameras, tracking me sporadically through the port when I came back within range. That was not a comforting thought.
 
@@ -50682,7 +50682,7 @@ The moment stretched. Then it reached out to my feed. It was cautious, the conne
 
 I replied, I’m on contract to a private individual. Why are you communicating with me?
 
-SecUnits on the same contract don’t talk, either verbally or on the feed, unless they absolutely have to in order to perform their duties. Communicating with units on different contracts has to be done through the controlling HubSystems. And SecUnits don’t interact with ComfortUnits anyway. Could this be a rogue ? If it was rogue, why was it here on RaviHyral? I didn’t know why anybody would stay here voluntarily, including the humans. No, it made more sense if Tlacey owned its contract, and had sent it here to kill Tapan.
+SecUnits on the same contract don’t talk, either verbally or on the feed, unless they absolutely have to in order to perform their duties. Communicating with units on different contracts has to be done through the controlling HubSystems. And SecUnits don’t interact with ComfortUnits anyway. Could this be a rogue sexbot? If it was rogue, why was it here on RaviHyral? I didn’t know why anybody would stay here voluntarily, including the humans. No, it made more sense if Tlacey owned its contract, and had sent it here to kill Tapan.
 
 If it tried to attack my client, I would tear it apart.
 
@@ -50692,7 +50692,7 @@ I opened a secure channel to her and said, Someone is outside the door. I’m no
 
 That was mostly true. I didn’t want to tell Tapan what it was, since that seemed to lead directly to me telling her what I was, which I didn’t want to do. Though if I had to destroy it in front of her, I was going to have a lot of explaining to do.
 
-The  replied, This is you, and sent me a copy of a public newsburst.
+The sexbot replied, This is you, and sent me a copy of a public newsburst.
 
 It was from the station, from Port FreeCommerce. This time the headline was “Authorities Admit a SecUnit Unsecured and Location Unknown.”
 
@@ -50712,7 +50712,7 @@ After some back and forth, Mensah’s solicitor had admitted that she had lost t
 
 Tapan whispered, “Are you talking to them, the person?”
 
-“Yes,” I told her. To the , I said, That’s an interesting story but it has nothing to do with me.
+“Yes,” I told her. To the sexbot, I said, That’s an interesting story but it has nothing to do with me.
 
 It said, It’s you. Who sent you?
 
@@ -50720,13 +50720,13 @@ I said, That’s a story about a dangerous rogue SecUnit. No one would send it a
 
 I’m not asking because I want to report you. I won’t tell anyone. I’m asking—There’s no human controlling you? You’re free?
 
-I could feel ART in my feed, carefully extending itself out toward the .
+I could feel ART in my feed, carefully extending itself out toward the sexbot.
 
-I have a client, I told it. I had to distract it, if ART was going to be able to get any info. Even though it was a , it was still a construct, still a whole different proposition from a pilot bot. Who sent you here? Was it Tlacey?
+I have a client, I told it. I had to distract it, if ART was going to be able to get any info. Even though it was a sexbot, it was still a construct, still a whole different proposition from a pilot bot. Who sent you here? Was it Tlacey?
 
 Yes. She is my client.
 
-As a ComfortUnit, not a SecUnit. Sending a ComfortUnit into this situation was morally irresponsible and a clear violation of contract. I’m guessing the  knew that.
+As a ComfortUnit, not a SecUnit. Sending a ComfortUnit into this situation was morally irresponsible and a clear violation of contract. I’m guessing the sexbot knew that.
 
 ART said, It’s not rogue. Its governor module is engaged. So it’s probably telling the truth.
 
@@ -50734,7 +50734,7 @@ I asked ART, Can you hack it from here?
 
 There was a half-second pause while ART explored the idea. ART answered, No, I can’t secure the connection here. It could stop me by cutting off its feed.
 
-I told the , Your client wants to kill my client.
+I told the sexbot, Your client wants to kill my client.
 
 It didn’t reply.
 
@@ -50764,7 +50764,7 @@ I know, I said, if the humans were dead, who would make the media? It was so out
 
 Huh.
 
-I said to the , Is that how Tlacey thinks constructs talk to each other?
+I said to the sexbot, Is that how Tlacey thinks constructs talk to each other?
 
 There was another pause, only two seconds this time. Yes. Then, Tlacey believes you stayed behind to steal the files for the tech group. What did you do for so long in the feed blackout area?
 
@@ -50780,7 +50780,7 @@ I could just delete the bundle, but I wanted to know what it was so I knew how f
 
 She signaled assent through the feed and pulled the bundle into her temp storage. The other thing about killware and malware is that they can’t do anything to humans or augmented humans.
 
-The  hadn’t said anything else and I sent a ping in time to feel it withdraw its feed. It was walking away down the corridor.
+The sexbot hadn’t said anything else and I sent a ping in time to feel it withdraw its feed. It was walking away down the corridor.
 
 I waited until I was sure, then stepped back from the door. I debated staying here, or moving Tapan. Now that I knew something was hacking the security cameras to watch me, I could use countermeasures. I probably should have been doing that from the beginning, but you may have noticed that for a terrifying murderbot I fuck up a lot.
 
@@ -50792,7 +50792,7 @@ ART and I waited. Tapan’s face did something complicated, settling on worry. �
 
 It was the message string, three words. Please help me.
 
-I moved us to a different room, near an emergency exit, in another section of the hostel. The  might be alert for hacking, so I removed the access plate, manually broke the lock, and replaced the plate again while Tapan watched the corridor. Once we were inside, I told Tapan some of what the  had said, mostly the part about how it claimed Tlacey didn’t know Tapan was here. (I didn’t tell her our visitor had been a  because Tlacey had figured out what I was and didn’t want to waste any more human bodyguards on me.) “But we don’t know that that’s true, or that this operative won’t tell Tlacey you’re here now.”
+I moved us to a different room, near an emergency exit, in another section of the hostel. The sexbot might be alert for hacking, so I removed the access plate, manually broke the lock, and replaced the plate again while Tapan watched the corridor. Once we were inside, I told Tapan some of what the sexbot had said, mostly the part about how it claimed Tlacey didn’t know Tapan was here. (I didn’t tell her our visitor had been a sexbot because Tlacey had figured out what I was and didn’t want to waste any more human bodyguards on me.) “But we don’t know that that’s true, or that this operative won’t tell Tlacey you’re here now.”
 
 Tapan looked confused. “But why did they tell you anything?”
 
@@ -50800,7 +50800,7 @@ That was a good question. “I don’t know. They don’t like Tlacey, but that 
 
 Tapan bit her lip, considering. “I think I should still try to keep the meeting. It’s only four hours from now.”
 
-I’m used to humans wanting to do things that can get them killed. Maybe too used to it. I knew we should leave now. But I needed time to hack enough of the security system to get past the . Once I did that, it seemed wrong not to wait the short time to make the meeting, which Tapan was reasonably sure Tlacey didn’t know about. Reasonably sure.
+I’m used to humans wanting to do things that can get them killed. Maybe too used to it. I knew we should leave now. But I needed time to hack enough of the security system to get past the sexbot. Once I did that, it seemed wrong not to wait the short time to make the meeting, which Tapan was reasonably sure Tlacey didn’t know about. Reasonably sure.
 
 It was probably a trap.
 
@@ -50826,9 +50826,9 @@ It took a while, but I finally convinced her this was for the best for both of u
 
 Tapan left the hostel first, wearing both extra jackets from her pack to change her body shape and with the hood of one pulled up to conceal her hair and shadow her face. (This was mostly to make her feel more confident, and because I didn’t want to explain the extent to which I could gain temporary control over portions of RaviHyral’s admittedly not-great security system.) I watched her on the security cameras until I saw her reach the public dock about one hundred meters away, go down the walkway to the embarkation area, then board the shuttle that was scheduled to leave in twenty-one minutes. ART sent me an acknowledgment as it slid into the shuttle’s controls to guard the bot pilot again. Then I left the hostel.
 
-I’d prepared a hack for the security cameras that was much more sophisticated than the one I’d been using up to this point. It involved getting into the operational code and setting the system on a tenth of a second delay, then deleting Tapan out and randomly replacing that part of the recording with pieces cut from earlier. This would work because the  would be scanning the recordings the same way I would, using a body configuration scan. I didn’t match SecUnit standard anymore, but the  had had plenty of time to scan my new configuration during that first meeting with Tlacey.
+I’d prepared a hack for the security cameras that was much more sophisticated than the one I’d been using up to this point. It involved getting into the operational code and setting the system on a tenth of a second delay, then deleting Tapan out and randomly replacing that part of the recording with pieces cut from earlier. This would work because the sexbot would be scanning the recordings the same way I would, using a body configuration scan. I didn’t match SecUnit standard anymore, but the sexbot had had plenty of time to scan my new configuration during that first meeting with Tlacey.
 
-Right now I wanted the ’s attention on me, and not the public dock. I let the cameras track me out of the port and back toward the tube access. Then I started the hack.
+Right now I wanted the sexbot’s attention on me, and not the public dock. I let the cameras track me out of the port and back toward the tube access. Then I started the hack.
 
 I was only 97 percent certain this meeting was a trap.
 
@@ -50848,11 +50848,11 @@ If this wasn’t a trap, the real trap was somewhere else.
 
 On the way back to the dock, I checked the schedule. The shuttle was now listed as delayed.
 
-As I reached the embarkation area, I was reviewing the security recording from the time Tapan had boarded the shuttle. On visual, I spotted the  coming toward me from the far end of the walkway.
+As I reached the embarkation area, I was reviewing the security recording from the time Tapan had boarded the shuttle. On visual, I spotted the sexbot coming toward me from the far end of the walkway.
 
 I had gotten to the point in the recording where two humans with Port Authority identification had stopped the shuttle’s departure and removed Tapan. ART slid out of the shuttle and back into my feed. It said, If I had my armed drones, this would be easier.
 
-When the  reached me, I said, “Where is she?”
+When the sexbot reached me, I said, “Where is she?”
 
 “In Tlacey’s private shuttle. I’ll show you.”
 
@@ -50862,7 +50862,7 @@ I said, Because Tlacey doesn’t want Tapan, she wants me.
 
 ART was quiet as we went past the private shuttle slots toward the bigger, more expensive section at the end. Then it said, Retrieve your human and make Tlacey regret this.
 
-We stopped in front of the access to a shuttle hatch. No one was outside, and most of the activity was down toward the other end of the docks. The  turned to face me.
+We stopped in front of the access to a shuttle hatch. No one was outside, and most of the activity was down toward the other end of the docks. The sexbot turned to face me.
 
 It opened its hand, and I recognized the small object. It was a combat override module. It said, “They won’t allow you aboard unless you let me install this.”
 
@@ -50874,17 +50874,17 @@ A combat override module contains code that will take over my system, overriding
 
 I said, “If I accept that, will they release my client?”
 
-In the feed the  whispered, You know they won’t. Aloud, it said, “Yes.”
+In the feed the sexbot whispered, You know they won’t. Aloud, it said, “Yes.”
 
 I turned and let it insert the module into my data port. (The data port that ART had disconnected when it altered my configuration. With my governor module hacked, it had been the only way left to assert control over me, so disabling it had been a priority.)
 
 The module clicked into place and I had a moment of purely irrational fear. ART must have picked up on it because it said, Please, my MedSystem makes no mistakes. Nothing happened, and from the security camera I had control of, I saw that I managed to keep the relief out of my expression.
 
-The ’s expression was Unit standard neutral, and I followed it into the shuttle. A human stood just inside the lock, armed, his eyes flicking nervously between me and the . He said, “Is it under control?”
+The sexbot’s expression was Unit standard neutral, and I followed it into the shuttle. A human stood just inside the lock, armed, his eyes flicking nervously between me and the sexbot. He said, “Is it under control?”
 
-“Yes,” the  said.
+“Yes,” the sexbot said.
 
-He stepped back and his jaw moved as he spoke in his feed. I couldn’t hack anything without the  knowing, so I waited. I kept my expression blank. I had no way of knowing what the combat override module was supposed to make me do, but I was assuming it would put me under Tlacey’s control. I suspected the humans, and the , weren’t sure what the outward effect would be. 
+He stepped back and his jaw moved as he spoke in his feed. I couldn’t hack anything without the sexbot knowing, so I waited. I kept my expression blank. I had no way of knowing what the combat override module was supposed to make me do, but I was assuming it would put me under Tlacey’s control. I suspected the humans, and the sexbot, weren’t sure what the outward effect would be. 
 
 Once we were through the lock, it cycled shut and a launch warning went through the feed, ending in an audible beep from the comm system. Tlacey must have bribed someone for immediate clearance, because there was a clunk as the lock disengaged and then the shuttle slid out of its slot.
 
@@ -50896,9 +50896,9 @@ Tlacey stood up from a chair and looked me over with a smile. She said, “Take 
 
 Tapan’s eyes were wide and frightened. I kept my expression blank. She tried to say, “Eden, I’m sorry! I’m sorry—” but the guard pulled her through another hatchway and down a corridor. I didn’t react, since I wanted her out of the line of fire. I listened for the hatch to close, then focused on Tlacey.
 
-She strolled toward me, thoughtful now. I guess the triumphant smile had been for Tapan’s benefit. The two other unarmed humans were watching with nervous curiosity, the armed guards still looked cautious. To the , Tlacey said, “You really think this is one of the units from the Ganaka Pit accident?”
+She strolled toward me, thoughtful now. I guess the triumphant smile had been for Tapan’s benefit. The two other unarmed humans were watching with nervous curiosity, the armed guards still looked cautious. To the sexbot, Tlacey said, “You really think this is one of the units from the Ganaka Pit accident?”
 
-The  started to reply, and I said, “But we all know that wasn’t an accident, don’t we.”
+The sexbot started to reply, and I said, “But we all know that wasn’t an accident, don’t we.”
 
 Now I had everybody’s attention.
 
@@ -50910,31 +50910,31 @@ Tlacey was beginning to be afraid. “Who sent you?”
 
 I lowered my head to meet her gaze. “I came for my client.”
 
-Tlacey’s jaw moved as she gave a command in the feed, and the  started to shift sideways into a combat position.
+Tlacey’s jaw moved as she gave a command in the feed, and the sexbot started to shift sideways into a combat position.
 
 ART said, The shuttle is clear of the port and moving into an orbit around the moon. Do you have a moment to let me in?
 
 I said, Be fast, and let ART in. I had the sensation again, my head shoved underwater, being temporarily incapacitated as ART used me as a bridge to reach the bot controlling the shuttle.
 
-It was quick, but the  had time to punch me in the jaw. Tlacey must have ordered that; it wasn’t the way a unit would attack another unit. It hurt, but only in the way that would piss me off. When I didn’t react immediately, Tlacey relaxed and grinned. “I like a mouthy bot. This is going to be interesting—”
+It was quick, but the sexbot had time to punch me in the jaw. Tlacey must have ordered that; it wasn’t the way a unit would attack another unit. It hurt, but only in the way that would piss me off. When I didn’t react immediately, Tlacey relaxed and grinned. “I like a mouthy bot. This is going to be interesting—”
 
-ART was in the shuttle’s systems and I was clear. I caught the ’s arm and flung it across the room toward the three armed guards. One went down, one stumbled into a chair, the third started to lift his weapon. I knocked Tlacey out of my way and stepped on the  as I went over it, thumping it back down to the deck. I grabbed the muzzle of the energy weapon and shoved it upright just as he fired. The discharge struck the curved ceiling. I ripped it out of his grasp, dislocating his shoulder and at least three fingers, and slammed his head down on the console.
+ART was in the shuttle’s systems and I was clear. I caught the sexbot’s arm and flung it across the room toward the three armed guards. One went down, one stumbled into a chair, the third started to lift his weapon. I knocked Tlacey out of my way and stepped on the sexbot as I went over it, thumping it back down to the deck. I grabbed the muzzle of the energy weapon and shoved it upright just as he fired. The discharge struck the curved ceiling. I ripped it out of his grasp, dislocating his shoulder and at least three fingers, and slammed his head down on the console.
 
 The guard who had already fallen to the deck had a projectile weapon and I felt two impacts, one to my side and one to my thigh. Now that’s the kind of attack that actually hurts. I extended my right arm and fired my inbuilt energy weapon, catching him with two bolts in the chest. I stepped sideways to avoid an energy weapon blast from the guard who had fallen into the chair, and my third shot hit him in the shoulder. I had the blasts set to narrow, and they created deep burn wounds that usually incapacitated humans rapidly with shock and pain and, you know, having holes burned into their chest cavities.
 
 I pivoted and threw the captured gun as a distraction. The first unarmed human was on the deck, a smoking wound in her back; the guard who had missed me had shot her. The second flung herself across the compartment to try to grab a fallen projectile weapon, so I shot her in the shoulder and the leg.
 
-The  rolled to its feet and charged me, I caught it, went down on my back, and flung it off and over my head. I twisted around and up to my knees but couldn’t get all the way up due to the wound in my right thigh. The  shoved upright and I grabbed its leg and popped the knee out of the socket. It went down and I took out its left shoulder joint. Slamming it down to the deck, I turned to see Tlacey reaching for one of the fallen weapons. I said, “Touch that weapon and I’ll take it away from you and insert it into your rib cage.”
+The sexbot rolled to its feet and charged me, I caught it, went down on my back, and flung it off and over my head. I twisted around and up to my knees but couldn’t get all the way up due to the wound in my right thigh. The sexbot shoved upright and I grabbed its leg and popped the knee out of the socket. It went down and I took out its left shoulder joint. Slamming it down to the deck, I turned to see Tlacey reaching for one of the fallen weapons. I said, “Touch that weapon and I’ll take it away from you and insert it into your rib cage.”
 
-She froze. She was panting from fear, eyes staring. I said, “Tell your  to stop fighting.”
+She froze. She was panting from fear, eyes staring. I said, “Tell your sexbot to stop fighting.”
 
 It was still struggling to get up and it was just going to hurt itself further. Especially if it made me mad again.
 
-Tlacey straightened slowly, her jaw working, and the  relaxed. I said, ART, cut off Tlacey’s feed.
+Tlacey straightened slowly, her jaw working, and the sexbot relaxed. I said, ART, cut off Tlacey’s feed.
 
 Done, ART said.
 
-Tlacey winced as her feed went down. I told Tlacey, “Give the  a verbal command to obey me until further notice. Try to give it any other command and I’ll rip your tongue out.”
+Tlacey winced as her feed went down. I told Tlacey, “Give the sexbot a verbal command to obey me until further notice. Try to give it any other command and I’ll rip your tongue out.”
 
 Tlacey huffed out a breath, then said, “Unit, obey the crazy rogue SecUnit until further notice.” To me, she said, “You need to get better threats.”
 
@@ -50942,7 +50942,7 @@ I put a hand on the nearest chair seat and shoved myself to my feet. “I don’
 
 Her jaw hardened. Two of the humans in the room had stopped breathing, the unarmed one that the guard had shot while aiming for me and the first one I had shot. Tlacey hadn’t noticed.
 
-I looked down at the , which looked up at me. “Stay down,” I said.
+I looked down at the sexbot, which looked up at me. “Stay down,” I said.
 
 It sent me an acknowledgment. I stepped over it, grabbed Tlacey’s arm, and dragged her down the corridor to the cabin where her guard had taken Tapan.
 

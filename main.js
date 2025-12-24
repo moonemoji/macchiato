@@ -40,7 +40,7 @@ client.once("ready", () => {
 });
 
 // Login to Discord with your client's token
-client.login(test_token);
+client.login(token);
 
 // Run commands
 client.on("interactionCreate", async interaction => {
